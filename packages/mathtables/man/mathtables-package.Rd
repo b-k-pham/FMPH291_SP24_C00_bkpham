@@ -15,6 +15,7 @@ The DESCRIPTION file:
 \packageIndices{mathtables}
 ~~ An overview of how to use the package, including the most ~~
 ~~ important functions ~~
+Use this package to make tables for a child to learn arithmetic.
 }
 \author{
 \packageAuthor{mathtables}
