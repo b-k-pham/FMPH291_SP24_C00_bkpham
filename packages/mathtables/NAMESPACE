@@ -1,1 +1,3 @@
 export("plus", "times")
+useDynLib(mathtables, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
