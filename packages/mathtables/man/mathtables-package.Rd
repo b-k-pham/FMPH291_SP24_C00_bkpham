@@ -4,6 +4,7 @@
 \docType{package}
 \title{
 \packageTitle{mathtables}
+Arithmetic Tables
 }
 \description{
 \packageDescription{mathtables}
@@ -31,5 +32,6 @@ Maintainer: \packageMaintainer{mathtables}
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
+plus(1:5,1:5)
+times(1:5,1:5)
 }
