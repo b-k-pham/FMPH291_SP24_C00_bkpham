@@ -1,0 +1,22 @@
+---
+title: "test_mathtables"
+output: html_document
+date: "2024-04-08"
+---
+
+```{r setup, include=FALSE}
+library(mathtables, lib.loc = "packages/mathtables.Rcheck")
+```
+
+## Test packages
+
+Test plus() in mathtables. Should output $5 \times 5$ matrix of addition pairs.
+
+```{r cars}
+plus(1:5,1:5)
+```
+Test times() in mathtables. Should output $5 \times 5$ matrix of multiplication pairs.
+```{r cars}
+times(1:5,1:5)
+```
+
