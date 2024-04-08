@@ -13,9 +13,7 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{mathtables}
 \packageIndices{mathtables}
-~~ An overview of how to use the package, including the most ~~
-~~ important functions ~~
-Use this package to make tables for a child to learn arithmetic.
+Use this package to make tables for a child to learn arithmetic, particularly adding and multiplying.
 }
 \author{
 \packageAuthor{mathtables}
